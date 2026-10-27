@@ -1,0 +1,30 @@
+{
+  "type": "DidPkgIndex",
+  "specVersion": "1",
+  "publisher": "did:dht:df6h6n9zksp86p7d957xtmmu3w64mwb8mdcza6iu8p9ew8i9jq4o",
+  "name": "hello",
+  "sequence": 2,
+  "updated": "2026-10-27T15:29:00Z",
+  "previous": "sha256-qeo6udP779OjGyDenkyqmHTI/m61KhqUZRdhb+YUAsc=",
+  "distTags": {
+    "latest": "1.1.0"
+  },
+  "releases": {
+    "1.0.0": {
+      "digest": "sha256-SqCyLlvuexWsFisKs90A4z94qB4EQOXxzZHMKVZROPo=",
+      "status": "active"
+    },
+    "1.1.0": {
+      "digest": "sha256-NXuVJ0b8EKCSRizsx5T0sws9VF6zmxmPdmde/NdIxPM=",
+      "status": "active"
+    }
+  },
+  "proof": {
+    "type": "DataIntegrityProof",
+    "cryptosuite": "eddsa-jcs-2022",
+    "created": "2026-10-27T15:29:00Z",
+    "verificationMethod": "did:dht:df6h6n9zksp86p7d957xtmmu3w64mwb8mdcza6iu8p9ew8i9jq4o#didpkg-1",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z4BjJZLbYkAPXjZW9gLCXwE6Bohg1VGYkKBN5La6vHUSF221de98BCyzcTH44ri2mP3ZUWwmVrGMDz6buu2zJTq6c"
+  }
+}
